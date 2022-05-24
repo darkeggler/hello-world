@@ -6,3 +6,5 @@
     1. 创建一个新的仓库 repository
     2. 创建一个分支
     3. commit changes
+    4. 开启一个pull请求
+    5. 合并pull请求
